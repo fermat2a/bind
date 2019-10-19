@@ -28,6 +28,10 @@ fermatbookLan	IN A 192.168.0.52
 fermatbookWLan	IN A 192.168.0.53
 omenLan		IN A 192.168.0.54
 omenWLan	IN A 192.168.0.55
+handySascha     IN A 192.168.0.56
+fireTVWZ        IN A 192.168.0.57
+ps4             IN A 192.168.0.58
+handyBea        IN A 192.168.0.59
 rasp3		IN A 192.168.0.62
 rasp1b		IN A 192.168.0.63
 one             IN A 192.168.0.71
