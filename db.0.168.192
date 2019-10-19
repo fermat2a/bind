@@ -1,0 +1,30 @@
+; BIND reverse data file for rfc1918 zone
+; /etc/bind/db.192.168.0
+ 
+$TTL    2D
+@   IN  SOA drecksrouter.douglas2a.local. root.douglas2a.local. (
+                  3     ; Serial
+             604800     ; Refresh
+              86400     ; Retry
+            2419200     ; Expire
+              86400 )   ; Negative Cache TTL
+;
+@   	IN  NS  drecksrouter.douglas2a.local.
+
+1       IN PTR drecksrouter.douglas2a.local.
+2	IN PTR ap1.douglas2a.local.
+3       IN PTR ap2.douglas2a.local.
+4	IN PTR web.douglas2a.local.
+10	IN PTR drecksserver.douglas2a.local.
+11      IN PTR drecksserver-ilo.douglas2a.local.
+20      IN PTR hp8720.douglas2a.local.
+21      IN PTR scanner.douglas2a.local.
+22	IN PTR onkyo.douglas2a.local.
+23	IN PTR irda.douglas2a.local.
+52	IN PTR fermatbookLan.douglas2a.local.
+53	IN PTR fermatbookWLan.douglas2a.local.
+54      IN PTR omenLan.douglas2a.local.
+55	IN PTR omenWLan.douglas2a.local.
+62	IN PTR rasp3.douglas2a.local.
+63	IN PTR rasp1b.douglas2a.local.
+

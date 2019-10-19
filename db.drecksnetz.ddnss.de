@@ -1,0 +1,16 @@
+; BIND data file for douglas2a.local
+; /etc/bind/db.drecksnetz.ddnss.de
+;
+$TTL 2D
+@   IN  SOA drecksnetz.ddnss.de. fermat.douglas2a.de. (
+                  3     ; Serial
+             604800     ; Refresh
+              86400     ; Retry
+            2419200     ; Expire
+              86400 )   ; Negative Cache TTL
+;
+@               IN  NS  drecksrouter.douglas2a.local.
+                IN  A   192.168.0.10
+
+;carddav IN A 192.168.0.10
+* IN A 192.168.0.10

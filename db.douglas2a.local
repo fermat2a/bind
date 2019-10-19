@@ -1,0 +1,34 @@
+; BIND data file for douglas2a.local
+; /etc/bind/db.douglas2a.local
+;
+$TTL 2D
+@   IN  SOA drecksrouter.douglas2a.local. fermat.douglas2a.de. (
+                  3     ; Serial
+             604800     ; Refresh
+              86400     ; Retry
+            2419200     ; Expire
+              86400 )   ; Negative Cache TTL
+;
+@               IN  NS  drecksrouter.douglas2a.local.
+                IN  MX  10 drecksrouter.douglas2a.local.
+                IN  A   192.168.0.1
+
+drecksrouter	IN A 192.168.0.1
+ap1		IN A 192.168.0.2
+ap2             IN A 192.168.0.3
+web		IN A 192.168.0.4
+drecksserver	IN A 192.168.0.10
+drecksserver-ilo    IN A 192.168.0.11
+hp8720          IN A 192.168.0.20
+drucker         IN A 192.168.0.20
+scanner         IN A 192.168.0.21
+onkyo		IN A 192.168.0.22
+irda		IN A 192.168.0.23
+fermatbookLan	IN A 192.168.0.52
+fermatbookWLan	IN A 192.168.0.53
+omenLan		IN A 192.168.0.54
+omenWLan	IN A 192.168.0.55
+rasp3		IN A 192.168.0.62
+rasp1b		IN A 192.168.0.63
+one             IN A 192.168.0.71
+
