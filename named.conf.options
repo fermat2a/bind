@@ -10,9 +10,9 @@ options {
 	// Uncomment the following block, and insert the addresses replacing 
 	// the all-0's placeholder.
 
-	// forwarders {
-	// 	0.0.0.0;
-	// };
+	forwarders {
+		9.9.9.9;
+	};
 
 	//========================================================================
 	// If BIND logs error messages about the root key being expired,
@@ -22,7 +22,7 @@ options {
 
 	auth-nxdomain no;    # conform to RFC1035
 	listen-on-v6 { any; };
-        listen-on { 127.0.0.1; 192.168.0.1; };
-        allow-query { 192.168.0.0/24; };
+        listen-on { any; };
+        allow-query { any; };
 };
 
