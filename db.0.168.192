@@ -29,6 +29,7 @@ $TTL    2D
 57      IN PTR fireTVWZ.douglas2a.local.
 58      IN PTR ps4.douglas2a.local.
 59      IN PTR handyBea.douglas2a.local.
+60      IN PTR retropie.douglas2a.local.
 62	IN PTR rasp3.douglas2a.local.
 63	IN PTR rasp1b.douglas2a.local.
 
