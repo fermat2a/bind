@@ -32,4 +32,5 @@ $TTL    2D
 60      IN PTR retropie.douglas2a.local.
 62	IN PTR rasp3.douglas2a.local.
 63	IN PTR rasp1b.douglas2a.local.
+64      IN PTR lubuntu.douglas2a.local.
 
