@@ -10,6 +10,6 @@ $TTL 2D
               86400 )   ; Negative Cache TTL
 ;
 @               IN  NS  drecksrouter.douglas2a.local.
-                IN  A   192.168.0.4
+                IN  A   192.168.135.4
 
-* IN A 192.168.0.4
+* IN A 192.168.135.4

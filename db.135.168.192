@@ -1,5 +1,5 @@
 ; BIND reverse data file for rfc1918 zone
-; /etc/bind/db.192.168.0
+; /etc/bind/db.192.168.135
  
 $TTL    2D
 @   IN  SOA drecksrouter.douglas2a.local. root.douglas2a.local. (
