@@ -26,7 +26,6 @@ options {
         allow-query { any; };
 	allow-transfer { localhost; 192.168.135.4; }; ## SLAVE
         notify yes;
-	notify explicit;
 	recursion yes;
 	allow-recursion { localhost; 192.168.135.4; };
 };
