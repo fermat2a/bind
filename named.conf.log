@@ -1,6 +1,6 @@
 logging {
         channel update_debug {
-                file "/var/log/named/update_debug.log" versions 3 size 100k;
+                file "/var/log/named/update_debug.log" versions 1 size 100k;
                 severity debug;
                 print-severity  yes;
                 print-time      yes;
@@ -12,7 +12,7 @@ logging {
                 print-time      yes;
         };
         channel bind_log {
-                file "/var/log/named/bind.log" versions 3 size 1m;
+                file "/var/log/named/bind.log" versions 3 size 100k;
                 severity info;
                 print-category  yes;
                 print-severity  yes;
