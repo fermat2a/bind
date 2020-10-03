@@ -25,5 +25,6 @@ options {
         listen-on { any; };
         allow-query { any; };
 	allow-transfer { localhost; 192.168.135.4; }; ## SLAVE
+        notify yes;
 };
 

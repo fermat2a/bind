@@ -1,8 +1,8 @@
 ; BIND data file for douglas2a.local
-; /etc/bind/db.nextcloud.drecksnetz.ddnss.de
+; /etc/bind/db.dokuwiki.drecksnetz.ddnss.de
 ;
 $TTL 2D
-@   IN  SOA nextcloud.drecksnetz.ddnss.de. fermat.douglas2a.de. (
+@   IN  SOA dokuwiki.drecksnetz.ddnss.de. fermat.douglas2a.de. (
                   3     ; Serial
              604800     ; Refresh
               86400     ; Retry
