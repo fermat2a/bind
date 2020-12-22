@@ -15,6 +15,7 @@ $TTL    2D
 2	IN PTR ap1.douglas2a.local.
 3       IN PTR ap2.douglas2a.local.
 4	IN PTR ap3.douglas2a.local.
+5       IN PTR ap4.douglas2a.local.
 10	IN PTR drecksserver.douglas2a.local.
 11      IN PTR drecksserver-ilo.douglas2a.local.
 20      IN PTR hp8720.douglas2a.local.
