@@ -14,12 +14,15 @@ $TTL 2D
                 IN  A   192.168.135.1
 
 drecksrouter	IN A 192.168.135.1
-ap1		IN A 192.168.135.2
+drecksrouter2	IN A 192.168.135.2
 ap2             IN A 192.168.135.3
 ap3             IN A 192.168.135.4
-ap4             IN A 192.168.135.5
+ap-wz           IN A 192.168.135.5
 drecksserver	IN A 192.168.135.10
 drecksserver-ilo    IN A 192.168.135.11
+zyxel-switch    IN A 192.168.135.12
+dhcp1           IN A 192.168.135.13
+dhcp2           IN A 192.168.135.14
 hp8720          IN A 192.168.135.20
 drucker         IN A 192.168.135.20
 scanner         IN A 192.168.135.21
@@ -35,7 +38,6 @@ ps4             IN A 192.168.135.58
 handyBea        IN A 192.168.135.59
 retropie        IN A 192.168.135.60
 rasp3		IN A 192.168.135.62
-rasp1b		IN A 192.168.135.63
 lubuntu		IN A 192.168.135.64
 one             IN A 192.168.135.71
 

@@ -12,12 +12,15 @@ $TTL    2D
 @   	IN  NS  drecksrouter.douglas2a.local.
 
 1       IN PTR drecksrouter.douglas2a.local.
-2	IN PTR ap1.douglas2a.local.
+2	IN PTR drecksrouter2.douglas2a.local.
 3       IN PTR ap2.douglas2a.local.
 4	IN PTR ap3.douglas2a.local.
-5       IN PTR ap4.douglas2a.local.
+5       IN PTR ap-wz.douglas2a.local.
 10	IN PTR drecksserver.douglas2a.local.
 11      IN PTR drecksserver-ilo.douglas2a.local.
+12  IN PTR zyxel-switch.douglas2a.local.
+13  IN PTR dhcp1.douglas2a.local.
+14  IN PTR dhcp2.douglas2a.local.
 20      IN PTR hp8720.douglas2a.local.
 21      IN PTR scanner.douglas2a.local.
 22	IN PTR onkyo.douglas2a.local.
@@ -32,6 +35,5 @@ $TTL    2D
 59      IN PTR handyBea.douglas2a.local.
 60      IN PTR retropie.douglas2a.local.
 62	IN PTR rasp3.douglas2a.local.
-63	IN PTR rasp1b.douglas2a.local.
 64      IN PTR lubuntu.douglas2a.local.
 
