@@ -32,7 +32,7 @@ fermatbookLan	IN A 192.168.135.52
 fermatbookWLan	IN A 192.168.135.53
 omenLan		IN A 192.168.135.54
 omenWLan	IN A 192.168.135.55
-handySascha     IN A 192.168.135.56
+fujitsuDock     IN A 192.168.135.56
 fireTVWZ        IN A 192.168.135.57
 ps4             IN A 192.168.135.58
 handyBea        IN A 192.168.135.59

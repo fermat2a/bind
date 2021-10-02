@@ -29,7 +29,7 @@ $TTL    2D
 53	IN PTR fermatbookWLan.douglas2a.local.
 54      IN PTR omenLan.douglas2a.local.
 55	IN PTR omenWLan.douglas2a.local.
-56      IN PTR handySascha.douglas2a.local.
+56      IN PTR fujitsuDock.douglas2a.local.
 57      IN PTR fireTVWZ.douglas2a.local.
 58      IN PTR ps4.douglas2a.local.
 59      IN PTR handyBea.douglas2a.local.
