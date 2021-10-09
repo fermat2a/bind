@@ -26,8 +26,9 @@ dhcp2           IN A 192.168.135.14
 hp8720          IN A 192.168.135.20
 drucker         IN A 192.168.135.20
 scanner         IN A 192.168.135.21
-onkyo		IN A 192.168.135.22
-irda		IN A 192.168.135.23
+onkyo		    IN A 192.168.135.22
+irda		    IN A 192.168.135.23
+audio-terasse   IN A 192.168.135.40
 fermatbookLan	IN A 192.168.135.52
 fermatbookWLan	IN A 192.168.135.53
 omenLan		IN A 192.168.135.54
