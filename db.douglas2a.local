@@ -29,6 +29,7 @@ scanner         IN A 192.168.135.21
 onkyo		    IN A 192.168.135.22
 onkyo-wlan	    IN A 192.168.135.23
 audio-terasse   IN A 192.168.135.40
+audio-buero   IN A 192.168.135.41
 fermatbookLan	IN A 192.168.135.52
 fermatbookWLan	IN A 192.168.135.53
 omenLan		IN A 192.168.135.54
