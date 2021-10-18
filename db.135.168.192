@@ -24,7 +24,7 @@ $TTL    2D
 20      IN PTR hp8720.douglas2a.local.
 21      IN PTR scanner.douglas2a.local.
 22	IN PTR onkyo.douglas2a.local.
-23	IN PTR irda.douglas2a.local.
+23	IN PTR onkyo-wlan.douglas2a.local.
 40  IN PTR audio-terasse.douglas2a.local.
 52	IN PTR fermatbookLan.douglas2a.local.
 53	IN PTR fermatbookWLan.douglas2a.local.
