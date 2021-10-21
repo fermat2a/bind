@@ -27,6 +27,7 @@ $TTL    2D
 23	IN PTR onkyo-wlan.douglas2a.local.
 40  IN PTR audio-terasse.douglas2a.local.
 41  IN PTR audio-buero.douglas2a.local.
+42  IN PTR media-wohnzimmer.douglas2a.local.
 52	IN PTR fermatbookLan.douglas2a.local.
 53	IN PTR fermatbookWLan.douglas2a.local.
 54      IN PTR omenLan.douglas2a.local.
