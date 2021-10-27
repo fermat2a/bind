@@ -40,6 +40,7 @@ fireTVWZ         IN A 192.168.135.57
 ps4              IN A 192.168.135.58
 handyBea         IN A 192.168.135.59
 retropie         IN A 192.168.135.60
+snapserver       IN A 192.168.135.61
 rasp3            IN A 192.168.135.62
 lubuntu	         IN A 192.168.135.64
 secure-buero     IN A 192.168.135.70

@@ -37,6 +37,7 @@ $TTL    2D
 58  IN PTR ps4.douglas2a.local.
 59  IN PTR handyBea.douglas2a.local.
 60  IN PTR retropie.douglas2a.local.
+61  IN PTR snapserver.douglas2a.local.
 62  IN PTR rasp3.douglas2a.local.
 64  IN PTR lubuntu.douglas2a.local.
 70  IN PTR secure-buero.douglas2a.local.
